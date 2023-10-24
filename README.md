@@ -1,4 +1,4 @@
-# Large-Language-Model-Assessment-Tool
+# Large Language Model Assessment Tool
 Author: Rimsha Rizvi
 
 ## Description
