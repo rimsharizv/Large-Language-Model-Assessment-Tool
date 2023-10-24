@@ -1,5 +1,5 @@
 # Large-Language-Model-Assessment-Tool
-Authors: Rimsha Rizvi
+Author: Rimsha Rizvi
 
 ## Description
 The Large Language Model Assessment Tool is designed to systematically evaluate various large language models (LLMs) and determine their effectiveness for specific tasks. This process helps in identifying the most suitable model for a given task based on empirical data and performance metrics.
