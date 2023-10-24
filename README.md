@@ -7,11 +7,11 @@ The Large Language Model Assessment Tool is designed to systematically evaluate 
 In this project, we aim to compare the performance of different large language models by querying them with a set of questions and evaluating the quality of their responses. The responses are then compared against a predefined set of correct answers to quantify the model's accuracy.
 
 ## Project Structure
-The project has multiple sections, which comprise of:
-**Setup:** Initial configurations and preparations for the assessment.
-**Evaluation Set:** Construction of an evaluation set consisting of question-answer pairs.
-**Performance Measure:** Definition of evaluation metrics to measure the performance of LLMs.
-**Collecting Responses:** Querying different LLMs with question prompts from the evaluation set.
+The project has multiple sections, which comprise of:  
+**Setup:** Initial configurations and preparations for the assessment.  
+**Evaluation Set:** Construction of an evaluation set consisting of question-answer pairs.  
+**Performance Measure:** Definition of evaluation metrics to measure the performance of LLMs.  
+**Collecting Responses:** Querying different LLMs with question prompts from the evaluation set.  
 **Analysis:** Evaluating the performance of LLMs based on their responses and reporting the results.
 
 ## Additional Explanation
